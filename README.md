@@ -3,9 +3,9 @@
 ---
 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/VictorPortolani)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/VictorPortolani)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/VictorPortolani)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark)](https://github.com/VictorPortolani)
 
 ---
 
