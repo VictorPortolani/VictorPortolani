@@ -1,41 +1,44 @@
-# Olá, sou Victor Portolani! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk0a2JjbXRhdXdiNGg2cGlpcms4cHhsNzRoaDFsYWNocG5waHlqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+  <h1>
+    Olá, eu sou o Victor Portolani! 👋
+  </h1>
+</div>
 
 ---
 
+### 👨‍💻 Sobre Mim
 
-<table align="center">
+<p>
+  Sou um desenvolvedor que está começando a pouco tempo no mundo do TI. Atualmente estou cursando Desenvolvimento de Software Multiplataforma. Não tenho muita facilidade com front-end, porém estou aprendendo React com TypeScript. Quanto ao back-end, estou aprendendo C#, buscando aprender sobre DTOs e APIs. Também em aprendizado de Firebase.
+</p>
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,cs,ts,js,dotnet,firebase,git,github,vscode,visualstudio,figma,bootstrap&perline=11" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <p><strong>Minhas Estatísticas Pessoais 🚀</strong></p>
       <a href="https://github.com/VictorPortolani">
         <img src="https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Victor Portolani"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <p><strong>Linguagens Mais Usadas</strong></p>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/VictorPortolani">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark" alt="Top Langs de Victor Portolani"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GatoMia-Organization">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoMia-Organization&layout=compact&theme=dark" alt="Top Langs da Organização"/>
       </a>
     </td>
   </tr>
 </table>
 
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark)](https://github.com/VictorPortolani)
-
----
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
