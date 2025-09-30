@@ -3,7 +3,22 @@
 ---
 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true)(https://github-readme-stats.vercel.app/api?username=GatoMia-Organization&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/VictorPortolani)(https://github.com/GatoMia-Organization)
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><strong>Minhas Estatísticas Pessoais 🚀</strong></p>
+      <a href="https://github.com/VictorPortolani">
+        <img src="https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Victor Portolani"/>
+      </a>
+    </td>
+    <td align="center">
+      <p><strong>Estatísticas do GatoMia 🏢</strong></p>
+      <a href="https://github.com/GatoMia-Organization">
+        <img src="https://github-readme-stats.vercel.app/api?username=GatoMia-Organization&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GatoMia"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark)](https://github.com/VictorPortolani)
