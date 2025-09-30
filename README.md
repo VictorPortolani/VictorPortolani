@@ -11,10 +11,17 @@
         <img src="https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Victor Portolani"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <p><strong>Linguagens Mais Usadas</strong></p>
+     <td align="center">
+      <a href="https://github.com/VictorPortolani">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark" alt="Top Langs de Victor Portolani"/>
+      </a>
+    </td>
     <td align="center">
-      <p><strong>Estatísticas do GatoMia 🏢</strong></p>
       <a href="https://github.com/GatoMia-Organization">
-        <img src="https://github-readme-stats.vercel.app/api?username=GatoMia-Organization&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GatoMia"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoMia-Organization&layout=compact&theme=dark" alt="Top Langs da Organização"/>
       </a>
     </td>
   </tr>
