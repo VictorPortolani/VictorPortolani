@@ -3,7 +3,8 @@
 ---
 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/VictorPortolani)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dark&include_all_commits=true&count_private=true)(https://github-readme-stats.vercel.app/api?username=GatoMia-Organization&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/VictorPortolani)(https://github.com/GatoMia-Organization)
+
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dark)](https://github.com/VictorPortolani)
 
