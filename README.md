@@ -23,5 +23,7 @@
   </a>
 </p>
 
+### Estatisticas
+![Github Stats](https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dracula)
 
 
