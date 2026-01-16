@@ -29,17 +29,7 @@ Sou um desenvolvedor em formação, cursando **Desenvolvimento de Software Multi
 
 ---
 
-### 📊 Estatísticas
-
+### 🐍 Minhas Contribuições
 <div align="center">
-  <a href="https://github.com/VictorPortolani">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorPortolani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/VictorPortolani">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPortolani&layout=compact&theme=dracula&langs_count=8"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorPortolani&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/VictorPortolani/VictorPortolani/output/github-contribution-grid-snake-dark.svg" />
 </div>
