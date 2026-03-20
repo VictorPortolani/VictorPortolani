@@ -24,7 +24,7 @@ Sou um desenvolvedor em formação, cursando **Desenvolvimento de Software Multi
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,firebase,git,github,idea,vscode,visualstudio,html,css,ts,js,react,figma,bootstrap,angular,vercel,nodejs,githubactions&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,firebase,git,github,idea,vscode,visualstudio,html,css,ts,js,react,figma,bootstrap,angular,vercel,nodejs,githubactions,cpp&perline=10" />
 </div>
 
 ---
