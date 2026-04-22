@@ -27,18 +27,18 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=&logoOnly=true"/><br/>
-      <img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=java&logoColor=white&label=&logoOnly=true"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=&logoOnly=true"/><br/>
-      <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=&logoOnly=true"/><br/>
-      <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=&logoOnly=true"/><br/>
-      <img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=&logoOnly=true"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white&label=&logoOnly=true"/><br/>
-      <img src="https://img.shields.io/badge/-F05033?style=for-the-badge&logo=git&logoColor=white&label=&logoOnly=true"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
     </td>
   </tr>
 </table>
