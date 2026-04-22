@@ -17,7 +17,9 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
 
 ## 🚀 Tecnologias & Ferramentas
 
-<table>
+<div align="center">
+  
+  <table>
   <tr>
     <td align="center"><strong>⚙️ Back-end</strong></td>
     <td align="center"><strong>🖥️ Front-end</strong></td>
@@ -40,6 +42,8 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
     </td>
   </tr>
 </table>
+  
+</div>
 
 ---
 
