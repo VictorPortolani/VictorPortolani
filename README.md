@@ -27,18 +27,18 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=&logoOnly=true"/><br/>
+      <img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=java&logoColor=white&label=&logoOnly=true"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=&logoOnly=true"/><br/>
+      <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=&logoOnly=true"/><br/>
+      <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=&logoOnly=true"/><br/>
+      <img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=&logoOnly=true"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white&label=&logoOnly=true"/><br/>
+      <img src="https://img.shields.io/badge/-F05033?style=for-the-badge&logo=git&logoColor=white&label=&logoOnly=true"/>
     </td>
   </tr>
 </table>
