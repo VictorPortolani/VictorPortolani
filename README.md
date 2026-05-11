@@ -44,7 +44,7 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
       JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="40px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="40px"/><br/>
       Rails
     </td>
     <td align="center">
