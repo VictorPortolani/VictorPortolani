@@ -30,8 +30,8 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
       Java
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/><br/>
-      React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="40px"/><br/>
+      Rails
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/><br/>
@@ -44,8 +44,8 @@ Atualmente trabalho mais focado com **C#** e **Java**, lidando com regras de neg
       JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="40px"/><br/>
-      Rails
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/><br/>
+      React
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/><br/>
